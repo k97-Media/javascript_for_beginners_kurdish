@@ -1,4 +1,4 @@
-# Alqay dwam
+# Alqay 1
 
 Lam alqaia baseki gshti korsaka wa harwaha bnchinakani **Javascript** akain.
 

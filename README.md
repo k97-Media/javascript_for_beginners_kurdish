@@ -123,6 +123,20 @@ bo **TEBINI**akan [kliki era bka]()
 --------------------------------------------
 # Alqai 7
 
+Lam alqaia basi **Loops** akain
+
+**Alqaka jare la Youtube Bardast nia**
+
+
+* **Loops** chia ?
+* Chon **Loop**akan bakar benin ??
+* Aw krdar yan shtanai atwanin lagal **Loop**akan bikain  chin ?
+
+bo **TEBINI**akan [kliki era bka]()
+
+--------------------------------------------
+# Alqai 8
+
 Lam alqaia basi **Method yan Function** akain
 
 **Alqaka jare la Youtube Bardast nia**

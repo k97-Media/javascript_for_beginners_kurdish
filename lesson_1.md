@@ -7,10 +7,11 @@ am xalana rwn akainawa :
 * Javascript(JS) chia ?
 * Bochi grnga ?
 * Chon bakardet ?
-* Jorakani data la Javascript chin ?
-* Boolean chia ?
-* agarakan chin ?
-* method yan function chia ?
+* Jorakani **Data** la Javascript chin ?
+* **Variable** chia ?
+* **Boolean** chia ?
+* **if-statments(agarakan)** chin ?
+* **method(function)** chia ?
 
 ------------------------------
 

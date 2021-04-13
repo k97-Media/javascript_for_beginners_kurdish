@@ -28,3 +28,4 @@ am xalana rwn akainawa :
 * **Loops**: bakar det bo dwbara krdnawai shtek yan chan shtek ba shewaiaki diari kraw
 
 * **Method (Function)** : britia la komalek kod ka pekawa kareki diari kraw akan w atwanin chand jarek bakarian bheninawa
+سڵاو باشن **چی ئەکەن**

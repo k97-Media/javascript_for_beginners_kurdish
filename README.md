@@ -33,7 +33,7 @@ Bo sairdkni alqaka [Klik lera bka]()
 * agarakan chin ?
 * method yan function chia ?
 
-bo **TEBINI**akan [kliki era bka]()
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_1.md)
 
 ----------------------------------------------------------
 # Alqay 2

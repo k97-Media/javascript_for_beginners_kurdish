@@ -46,21 +46,23 @@ Wa am xalana rwn akainawa :
 
     Anjam : 2
 
-    --------------------
+  ```
+  ```javascript
     const string = 'javascript'
     string.length
 
     Anjam : 10
    ```
 
-* **bakarhenani - [zhmarai xana] :** bakar det bo zanini aw pita yan aw shtai law xanadaia
+* **bakarhenani - `[zhmarai xana]` :** bakar det bo zanini aw pita yan aw shtai law xanadaia
   ```javascript
     const string = 'mn'
     string[0]
 
     Anjam : m
 
-    --------------------
+  ```
+  ```javascript
     const string = 'javascript'
     string.[5]
 
@@ -75,7 +77,8 @@ Wa am xalana rwn akainawa :
 
     Anjam : 0
 
-    --------------------
+  ```
+  ```javascript
     const string = 'javascript'
     string.indexOf('c')
 
@@ -89,7 +92,8 @@ Wa am xalana rwn akainawa :
 
     Anjam : mn
 
-    --------------------
+  ```
+  ```javascript
     const string = 'JAVASCRIPT'
     string.toLowerCase()
 
@@ -103,7 +107,8 @@ Wa am xalana rwn akainawa :
 
     Anjam : MN
 
-    --------------------
+  ```
+  ```javascript
     const string = 'javascript'
     string.toUpperCase()
 
@@ -115,7 +120,9 @@ Wa am xalana rwn akainawa :
     string.includes('o')
 
     Anjam : False
-  --------------------------
+  ```
+  ```javascript
+    const string = 'Mn'
     string.includes('M')
 
     Anjam : True

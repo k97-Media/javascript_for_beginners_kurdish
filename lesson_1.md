@@ -7,6 +7,7 @@ am xalana rwn akainawa :
 * Javascript(JS) chia ?
 * Bochi grnga ?
 * Chon bakardet ?
+* Chand shteki grng ka la saratawa feri bin .
 * Jorakani **Data** la Javascript chin ?
 * **Variable** chia ?
 * **Boolean** chia ?

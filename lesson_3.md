@@ -1,94 +1,129 @@
-# Lam Alqayada ema basi **Array** akain.
+# Lam Alqayada ema basi **STRING** akain.
 
 Wa am xalana rwn akainawa :
 
-* Array chia ?
-* Chon Array bakar benin ??
-* Aw krdar yan shtanai atwanin lagal Array bikain chin ?
+* String chia ?
+* Chon String bakar benin ??
+* Aw krdar yan shtanai atwanin lagal String bikain chin ?
 
 -----------------------------------------------------
 
-### Array chia ?
+### String chia ?
 
-**Array** : britia la kokrdnawai komalek , sht wak (Variable, String, Zhmara, Object yan Array tr) hemu la yak shwen ka wak snwqek yan Listek waia boman.
+**String** : britia la jorek la jorakani **Data** wa bakar det bu nusini asaii wak wsha yan komala wshaiak. Yaxwd har shtek ka bmanawet wak nusineki assai bakari bhenin.
+
+**String** ba dw shewa anwsret :
+
+1. ```javascript
+   " Nwsinaka lera anwsit "
+     
+     Nmwna:
+
+   " Mn Kurdm "
+   ```
+2. ```javascript
+   ' Nwsinaka lera anwsit '
+     
+     Nmwna:
+
+   ' Mn Kurdm '
+   ```
 
 
-### Chon Array bakar benin ?
+### Chon String bakar denin ?
 
-**Array** katek bakar denin ka komalek shtman habet w bmanawet hamu pekawa la tanha **Variable**ekda bn. Wa har katek wistman ba bakar henani nawi aw **Variable**a hamu aw shtanaman pekawa dast kawet.
+**String**akan bakar den bo pishan dani nusinek etr aw nwsina tanha pitek yan chand pitek bet yaxwd rsta yan chand rstaiak.
 
 
-**Array** bam shewa drwst akret :
 
-```javascript
+### Aw krdar yan shtanai lagal String bikain chin ?
 
-VARIABLE = [shti1, shti2, shti3]
 
-nmwna:
+* **Length :** bakar det bo zanini zhmarai **Pit** yan aw **Charachter**anai lanaw **String**aka haya.
+  ```javascript
+    const string = 'mn'
+    string.length
 
-const list = ['prtaqal', 'sew', 'limo', 1, 3, 5]
-```
+    Anjam : 2
 
-### Aw krdar yan shtanai atwanin lagal Array bikain chin ?
+  ```
+  ```javascript
+    const string = 'javascript'
+    string.length
 
-* **length :**  bakar det bo zanini zhmarai aw shtanai la **Array**akadan
+    Anjam : 10
+   ```
+
+* **bakarhenani - `[zhmarai xana]` :** bakar det bo zanini aw pita yan aw shtai law xanadaia
+  ```javascript
+    const string = 'mn'
+    string[0]
+
+    Anjam : m
+
+  ```
+  ```javascript
+    const string = 'javascript'
+    string.[5]
+
+    Anjam : c
+   ```
+
+* **indexOf() :** bakar det bo zanini zhmarai xanai aw shtai labaini kawanakan ainusin
+
+  ```javascript
+    const string = 'mn'
+    string.indexOf('m')
+
+    Anjam : 0
+
+  ```
+  ```javascript
+    const string = 'javascript'
+    string.indexOf('c')
+
+    Anjam : 5
+   ```
+* **toLowerCase() :** bakar det bo krdni hamu pitakan ba **Small**
+
+  ```javascript
+    const string = 'Mn'
+    string.toLowerCase()
+
+    Anjam : mn
+
+  ```
+  ```javascript
+    const string = 'JAVASCRIPT'
+    string.toLowerCase()
+
+    Anjam : javascript
+   ```
+* **toUpperCase() :** bakar det bo krdni hamu pitakan ba **Capital**
+
+  ```javascript
+    const string = 'Mn'
+    string.toUpperCase()
+
+    Anjam : MN
+
+  ```
+  ```javascript
+    const string = 'javascript'
+    string.toUpperCase()
+
+    Anjam : JAVASCRIPT
+   ```
+* **includes() :** bakar det bo zanini aia aw shtai aixaina baini kawanakan la naw **String**aka haya yaxwd na.
     ```javascript
-      const list = ['prtaqal', 'sew', 'limo', 1, 3, 5]
-      list.length
+    const string = 'Mn'
+    string.includes('o')
 
-      Anjam: 6
-    ```
-* **bakarhenani - `[zhmarai xana]` :** bakar det bo zanini nrxi aw shtai law xanadaia
-  ```javascript
-      const list = ['prtaqal', 'sew', 'limo', 1, 3, 5]
-      list[0]
-
-      Anjam: prtaqal
-
+    Anjam : False
   ```
   ```javascript
-      const list = ['prtaqal', 'sew', 'limo', 1, 3, 5]
-      list[4]
+    const string = 'Mn'
+    string.includes('M')
 
-      Anjam: 3
-    ```
-* **push() :** bakar det bo ziadkrdni shtek bo kotai **Array**aka
-  ```javascript
-      const list = ['prtaqal', 'sew', 'limo', 1, 3, 5]
-      list.push('mn tazam')
-
-      Anjam: ['prtaqal', 'sew', 'limo', 1, 3, 5, 'mn tazam']
-  ```
-  ```javascript
-      const list = ['prtaqal', 'sew', 'limo', 1, 3, 5]
-      list.push(200)
-
-      Anjam: ['prtaqal', 'sew', 'limo', 1, 3, 5, 200]
-  ```
-* **pop() :** bakar det bo srinawai yak sht la kotai **Array**akawa
-    ```javascript
-      const list = ['prtaqal', 'sew', 'limo', 1, 3, 5]
-      list.pop()
-
-      Anjam: ['prtaqal', 'sew', 'limo', 1, 3]
-    ```
-* **shift() :** bakar det bo srinawai yak sht la saratai **Array**akawa
-  ```javascript
-      const list = ['prtaqal', 'sew', 'limo', 1, 3, 5]
-      list.pop()
-
-      Anjam: ['sew', 'limo', 1, 3, 5]
-    ```
-* **includes() :** bakar det bo zanini aia shtek lanaw **Array**aka haya yan na
-  ```javascript
-      const list = ['prtaqal', 'sew', 'limo', 1, 3, 5]
-      list.includes('hanar')
-
-      Anjam: False
-  ```
-  ```javascript
-      const list = ['prtaqal', 'sew', 'limo', 1, 3, 5]
-      list.includes('sew')
-
-      Anjam: True
-  ```
+    Anjam : True
+   ```

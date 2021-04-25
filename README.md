@@ -21,7 +21,7 @@ Bashtrin **CODE EDITOR**akan :
 
 # Alqay 1
 
-lam alqaia baseki gshti Korsaka. Wa harwaha **Bnchinakani JAVASCRIPT** akain
+lam alqaia baseki **Bnchinakani JAVASCRIPT** akain
 
 Bo sairdkni alqaka [Klik lera bka]()
 
@@ -29,8 +29,6 @@ Bo sairdkni alqaka [Klik lera bka]()
 * Bochi grnga ?
 * Chon bakardet ?
 * Jorakani **Data** la Javascript chin ?
-* **Variable** chia ?
-* **Boolean** chia ?
 * **if-statments(agarakan)** chin ?
 * **method(function)** chia ?
 
@@ -38,6 +36,24 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_be
 
 ----------------------------------------------------------
 # Alqay 2
+
+Lam alqaia basi **Variable** akain
+
+**Alqaka jare la Youtube Bardast nia**
+
+
+am xalana rwn akainawa :
+
+* **Variable** chia ?
+* Chon **Variable** bakar benin ??
+* Jorakani **Variable** chin ?
+* Chon shtek lasar **Console** pishan adain _
+
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_2.md)
+
+----------------------------------------
+
+# Alqay 3
 
 Lam alqaia basi **String** akain
 
@@ -50,11 +66,11 @@ am xalana rwn akainawa :
 * Chon **String** bakar benin ??
 * Aw krdar yan shtanai atwanin lagal **String** bikain  chin ?
 
-bo **TEBINI**akan [kliki era bka]()
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_3.md)
 
 ----------------------------------------
 
-# Alqay 3
+# Alqay 4
 
 Lam alqaia basi **Array** akain
 
@@ -67,11 +83,11 @@ am xalana rwn akainawa :
 * Chon **Array** bakar benin ??
 * Aw krdar yan shtanai atwanin lagal **Array** bikain  chin ?
 
-bo **TEBINI**akan [kliki era bka]()
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_4.md)
 
 ----------------------------------------------
 
-# Alqai 4
+# Alqai 5
 
 Lam alqaia basi **Object** akain
 
@@ -84,11 +100,11 @@ am xalana rwn akainawa :
 * Chon **Object** bakar benin ??
 * Aw krdar yan shtanai atwanin lagal **Object** bikain  chin ?
 
-bo **TEBINI**akan [kliki era bka]()
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_5.md)
 
 --------------------------------------------
 
-# Alqai 5
+# Alqai 6
 
 Lam alqaia basi **Number** akain
 
@@ -100,11 +116,11 @@ am xalana rwn akainawa :
 * Chon **Number** bakar benin ??
 * Aw krdar yan shtanai atwanin lagal **Number** bikain  chin ?
 
-bo **TEBINI**akan [kliki era bka]()
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_6.md)
 
 --------------------------------------------
 
-# Alqai 6
+# Alqai 7
 
 Lam alqaia basi **Agarakan** akain
 
@@ -119,10 +135,10 @@ Lam alqaia basi **Agarakan** akain
 * Chon **Switch** bakar benin ??
 * Aw krdar yan shtanai atwanin lagal **Switch** bikain  chin ?
 
-bo **TEBINI**akan [kliki era bka]()
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_7.md)
 
 --------------------------------------------
-# Alqai 7
+# Alqai 8
 
 Lam alqaia basi **Loops** akain
 
@@ -133,10 +149,10 @@ Lam alqaia basi **Loops** akain
 * Chon **Loop**akan bakar benin ??
 * Aw krdar yan shtanai atwanin lagal **Loop**akan bikain  chin ?
 
-bo **TEBINI**akan [kliki era bka]()
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_8.md)
 
 --------------------------------------------
-# Alqai 8
+# Alqai 9
 
 Lam alqaia basi **Method yan Function** akain
 
@@ -147,6 +163,6 @@ Lam alqaia basi **Method yan Function** akain
 * Chon **Method yan Function** bakar benin ??
 * Aw krdar yan shtanai atwanin lagal **Method yan Function** bikain  chin ?
 
-bo **TEBINI**akan [kliki era bka]()
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_9.md)
 
 --------------------------------------------

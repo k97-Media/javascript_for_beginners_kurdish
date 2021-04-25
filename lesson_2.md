@@ -1,129 +1,44 @@
-# Lam Alqayada ema basi **STRING** akain.
+Lam alqaia basi **Variable** akain
 
-Wa am xalana rwn akainawa :
+am xalana rwn akainawa :
 
-* String chia ?
-* Chon String bakar benin ??
-* Aw krdar yan shtanai atwanin lagal String bikain chin ?
+* **Variable** chia ?
+* Chon **Variable** bakar benin ??
+* Jorakani **Variable** chin ?
+* Chon shtek lasar **Console** pishan adain
 
------------------------------------------------------
+----------------------------------------
 
-### String chia ?
+### Variable
 
-**String** : britia la jorek la jorakani **Data** wa bakar det bu nusini asaii wak wsha yan komala wshaiak. Yaxwd har shtek ka bmanawet wak nusineki assai bakari bhenin.
+**Variable** wak nawek waia ka adret ba shtek , wa dwatr barnamakai ema aw nawa anasetawa w azane watai chia yan ch shteki halgrtua w peman aiataua yan rega aiat bakari bhenin.
 
-**String** ba dw shewa anwsret :
+ba 3 jor atwanin **Variable** drwst bkain :
 
-1. ```javascript
-   " Nwsinaka lera anwsit "
-     
-     Nmwna:
-
-   " Mn Kurdm "
-   ```
-2. ```javascript
-   ' Nwsinaka lera anwsit '
-     
-     Nmwna:
-
-   ' Mn Kurdm '
-   ```
-
-
-### Chon String bakar denin ?
-
-**String**akan bakar den bo pishan dani nusinek etr aw nwsina tanha pitek yan chand pitek bet yaxwd rsta yan chand rstaiak.
-
-
-
-### Aw krdar yan shtanai lagal String bikain chin ?
-
-
-* **Length :** bakar det bo zanini zhmarai **Pit** yan aw **Charachter**anai lanaw **String**aka haya.
+1. ba bakar henani **var**
+   aw **Variable**anai ba **VAR** drwst akren yan jorakaian **VAR**a. Datwantret la hamu shwenekawa bakar bet wa nrxakanian dastkari bkain
   ```javascript
-    const string = 'mn'
-    string.length
+    var NAW = NRX  yan AW SHTAI ATAWET
 
-    Anjam : 2
-
+    nmwna :
+    var rang = ' rash '
+    var zhmara = 4
   ```
+2. ba bakar henani **let**
+   aw **Variable**anai ba **let** drwst akren yan jorakaian **let**a. Datwantret tanha lanaw aw shwena bakar bet ka teida drwst krawa wa datwanin nrxakanian dastkari bkain
   ```javascript
-    const string = 'javascript'
-    string.length
+    let NAW = NRX  yan AW SHTAI ATAWET
 
-    Anjam : 10
-   ```
-
-* **bakarhenani - `[zhmarai xana]` :** bakar det bo zanini aw pita yan aw shtai law xanadaia
-  ```javascript
-    const string = 'mn'
-    string[0]
-
-    Anjam : m
-
+    nmwna :
+    let rang = ' rash '
+    let zhmara = 4
   ```
+3. ba bakar henani **const**
+   aw **Variable**anai ba **const** drwst akren yan jorakaian **const**a. Datwantret tanha lanaw aw shwena bakar bet ka teida drwst krawa balam natwanin nrxakanian dastkari bkain
   ```javascript
-    const string = 'javascript'
-    string.[5]
+    const NAW = NRX  yan AW SHTAI ATAWET
 
-    Anjam : c
-   ```
-
-* **indexOf() :** bakar det bo zanini zhmarai xanai aw shtai labaini kawanakan ainusin
-
-  ```javascript
-    const string = 'mn'
-    string.indexOf('m')
-
-    Anjam : 0
-
+    nmwna :
+    const rang = ' rash '
+    const zhmara = 4
   ```
-  ```javascript
-    const string = 'javascript'
-    string.indexOf('c')
-
-    Anjam : 5
-   ```
-* **toLowerCase() :** bakar det bo krdni hamu pitakan ba **Small**
-
-  ```javascript
-    const string = 'Mn'
-    string.toLowerCase()
-
-    Anjam : mn
-
-  ```
-  ```javascript
-    const string = 'JAVASCRIPT'
-    string.toLowerCase()
-
-    Anjam : javascript
-   ```
-* **toUpperCase() :** bakar det bo krdni hamu pitakan ba **Capital**
-
-  ```javascript
-    const string = 'Mn'
-    string.toUpperCase()
-
-    Anjam : MN
-
-  ```
-  ```javascript
-    const string = 'javascript'
-    string.toUpperCase()
-
-    Anjam : JAVASCRIPT
-   ```
-* **includes() :** bakar det bo zanini aia aw shtai aixaina baini kawanakan la naw **String**aka haya yaxwd na.
-    ```javascript
-    const string = 'Mn'
-    string.includes('o')
-
-    Anjam : False
-  ```
-  ```javascript
-    const string = 'Mn'
-    string.includes('M')
-
-    Anjam : True
-   ```

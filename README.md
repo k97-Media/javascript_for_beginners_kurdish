@@ -47,7 +47,7 @@ am xalana rwn akainawa :
 * **Variable** chia ?
 * Chon **Variable** bakar benin ??
 * Jorakani **Variable** chin ?
-* Chon shtek lasar **Console** pishan adain _
+* Chon shtek lasar **Console** pishan adain
 
 bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_2.md)
 

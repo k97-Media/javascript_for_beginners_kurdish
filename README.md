@@ -29,6 +29,7 @@ Bo sairdkni alqaka [Klik lera bka]()
 * Bochi grnga ?
 * Chon bakardet ?
 * Jorakani **Data** la Javascript chin ?
+* **Loop**akan chin ?
 * **if-statments(agarakan)** chin ?
 * **method(function)** chia ?
 
@@ -147,7 +148,8 @@ Lam alqaia basi **Loops** akain
 
 * **Loops** chia ?
 * Chon **Loop**akan bakar benin ??
-* Aw krdar yan shtanai atwanin lagal **Loop**akan bikain  chin ?
+* **For Loop** chia ?
+* **While loop** chia ?
 
 bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_8.md)
 
@@ -164,5 +166,18 @@ Lam alqaia basi **Method yan Function** akain
 * Aw krdar yan shtanai atwanin lagal **Method yan Function** bikain  chin ?
 
 bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_9.md)
+
+--------------------------------------------
+# Alqai 10
+
+Lam alqaia basi **DOM** akain
+
+**Alqaka jare la Youtube Bardast nia**
+
+
+* **DOM** chia ?
+* Aw krdar yan shtanai atwanin lagal **DOM** bikain  chin ?
+
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_10.md)
 
 --------------------------------------------

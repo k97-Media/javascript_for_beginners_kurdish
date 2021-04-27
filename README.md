@@ -23,7 +23,7 @@ Bashtrin **CODE EDITOR**akan :
 
 lam alqaia baseki **Bnchinakani JAVASCRIPT** akain
 
-Bo sairdkni alqaka [Klik lera bka]()
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/lddgrrNVjcM)
 
 * Javascript(JS) chia ?
 * Bochi grnga ?

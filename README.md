@@ -142,6 +142,21 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_be
 --------------------------------------------
 # Alqai 8
 
+Lam alqaia basi **Switch Statments** akain
+
+**Alqaka jare la Youtube Bardast nia**
+
+
+* **Switch Statments** chia ?
+* Chon **Switch Statments**akan bakar benin ??
+* **Switch Statments** chia ?
+* **Switch Statments** chia ?
+
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_8.md)
+
+--------------------------------------------
+# Alqai 9
+
 Lam alqaia basi **Loops** akain
 
 **Alqaka jare la Youtube Bardast nia**
@@ -152,10 +167,10 @@ Lam alqaia basi **Loops** akain
 * **For Loop** chia ?
 * **While loop** chia ?
 
-bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_8.md)
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_9.md)
 
 --------------------------------------------
-# Alqai 9
+# Alqai 10
 
 Lam alqaia basi **Method yan Function** akain
 
@@ -166,10 +181,10 @@ Lam alqaia basi **Method yan Function** akain
 * Chon **Method yan Function** bakar benin ??
 * Aw krdar yan shtanai atwanin lagal **Method yan Function** bikain  chin ?
 
-bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_9.md)
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_10.md)
 
 --------------------------------------------
-# Alqai 10
+# Alqai 11
 
 Lam alqaia basi **DOM** akain
 
@@ -179,6 +194,6 @@ Lam alqaia basi **DOM** akain
 * **DOM** chia ?
 * Aw krdar yan shtanai atwanin lagal **DOM** bikain  chin ?
 
-bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_10.md)
+bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_11.md)
 
 --------------------------------------------

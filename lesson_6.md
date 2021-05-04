@@ -32,19 +32,3 @@ Britia la hamw jorakani zhmara le Javascript, wa atwanret bakar bet bo krdara bi
   anjam:
   5.58
   ```
-
-3.Dlnia bun ka aia jori shtek zhmaraia yan na :
-
-  ```javascript
-  const zhmara = 4
-  num.isInteger()
-  
-  anjam:
-  True
-
-  const zhmara = '4'
-  num.isInteger()
-  
-  anjam:
-  False
-  ```

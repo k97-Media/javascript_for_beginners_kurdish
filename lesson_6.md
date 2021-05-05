@@ -14,12 +14,22 @@ Britia la hamw jorakani zhmara le Javascript, wa atwanret bakar bet bo krdara bi
 
 1. Hamw krdara birkariakan ka la rozhana aikain atwanin lagal **Number** bakari bhenin.
 
-2. Nzik krdnawa : wata nzikrdnawai zhmaraiak ba farizawa bo nziktring zhmara lei
+2. Mod(Modulo)
+   Britia la bakarhenani **%** wa bakardet bo zanini mawai krdareki dabashkrdn
+   ```javascript
+      const zhmara = 5
+      5 % 3 = 2
+    ```
+    lerada katek **Mod**i `5` basar `3` wardagrin :
+      * Aia `5` chand `3`i tedaia 
+        1
+      * Aia chand amenetawa
+        2
+3. Nzik krdnawa : wata nzikrdnawai zhmaraiak ba farizawa bo nziktring zhmara lei
 
   ```javascript
   const zhmara = 4.5
   num.toFixed()
-  
   anjam:
   5
   ```
@@ -28,7 +38,6 @@ Britia la hamw jorakani zhmara le Javascript, wa atwanret bakar bet bo krdara bi
   ```javascript
   const zhmara = 4.578
   num.toFixed(2)
-  
   anjam:
   5.58
   ```

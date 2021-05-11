@@ -2,7 +2,7 @@
 
 Lam Ferkaria basi **JAVASCRIPT** akain
 
-Bo sairdkni hamu alqakan [Klik lera bka]()
+Bo sairdkni hamu alqakan [Klik lera bka](https://youtube.com/playlist?list=PLDPXog3mqHRZrpH9USImBHLu2FXUS4RTT)
 
 Chand Link'eki baswd :
 

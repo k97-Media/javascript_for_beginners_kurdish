@@ -76,7 +76,7 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_be
 
 Lam alqaia basi **Array** akain
 
-**Alqaka jare la Youtube Bardast nia**
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/U3oTZ7-AFLA)
 
 
 am xalana rwn akainawa :
@@ -93,7 +93,7 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_be
 
 Lam alqaia basi **Object** akain
 
-**Alqaka jare la Youtube Bardast nia**
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/1g0msadole0)
 
 
 am xalana rwn akainawa :

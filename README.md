@@ -110,7 +110,7 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_be
 
 Lam alqaia basi **Number** akain
 
-**Alqaka jare la Youtube Bardast nia**
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/QjFRDpeKiq0)
 
 
 am xalana rwn akainawa :
@@ -126,7 +126,7 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_be
 
 Lam alqaia basi **Agarakan** akain
 
-**Alqaka jare la Youtube Bardast nia**
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/jEQvy9E23Uk)
 
 
 * **If statment** chia ?

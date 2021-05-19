@@ -133,10 +133,6 @@ Bo sairdkni alqaka [Klik lera bka](https://youtu.be/jEQvy9E23Uk)
 * Chon **If statment** bakar benin ??
 * Aw krdar yan shtanai atwanin lagal **If statment** bikain  chin ?
 
-* **Switch** chia ?
-* Chon **Switch** bakar benin ??
-* Aw krdar yan shtanai atwanin lagal **Switch** bikain  chin ?
-
 bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_7.md)
 
 --------------------------------------------
@@ -149,8 +145,7 @@ Lam alqaia basi **Switch Statments** akain
 
 * **Switch Statments** chia ?
 * Chon **Switch Statments**akan bakar benin ??
-* **Switch Statments** chia ?
-* **Switch Statments** chia ?
+
 
 bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_beginners_kurdish/blob/main/lesson_8.md)
 

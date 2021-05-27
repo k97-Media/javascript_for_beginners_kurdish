@@ -138,7 +138,7 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_be
 --------------------------------------------
 # Alqai 8
 
-Lam alqaia basi **Switch Statments** akain
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/578SdN9zqbI)
 
 **Alqaka jare la Youtube Bardast nia**
 
@@ -152,7 +152,7 @@ bo **TEBINI**akan [kliki era bka](https://github.com/k97-Media/javascript_for_be
 --------------------------------------------
 # Alqai 9
 
-Lam alqaia basi **Loops** akain
+Bo sairdkni alqaka [Klik lera bka](https://youtu.be/ONKCBhGjCec)
 
 **Alqaka jare la Youtube Bardast nia**
 
